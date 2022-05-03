@@ -1,0 +1,97 @@
+body{
+    background-color: #e0c9a9;
+}
+
+h1{
+    color: #72381b;
+}
+
+p{
+    font-family:Nunito;
+}
+.nokta{
+    color: #72381b;
+    list-style-type: square;
+}
+div{
+    color: #72381b;
+    float: left;
+    position: absolute;
+    left: 800px;
+    top: 170px;
+}
+div2{
+    color: black;
+    float: left;
+    position: absolute;
+    left: 890px;
+    top: 170px;
+}
+div3{
+    color: #72381b;
+    float: left;
+    position: absolute;
+    left: 980px;
+    top: 170px;
+}
+div4{
+    color: black;
+    float: left;
+    position: absolute;
+    left: 1110px;
+    top: 170px;
+}
+div5{
+    color: #72381b;
+    float: left;
+    position: absolute;
+    left: 1220px;
+    top: 170px;
+}
+div6{
+    color:black;
+    float: left;
+    position: absolute;
+    left: 1330px;
+    top: 170px;
+}
+h4{
+    float: left;
+    position: absolute;
+    left: 680px;
+    font-size: 20px;
+    background-color: #874726;
+    color: white;
+    border-radius: 20px;
+}
+.liste{
+    float: left;
+    position: absolute;
+    left: 560px;
+    top:260px;
+}
+h3{
+    float: left;
+    position: absolute;
+    left: 680px;
+    top: 360px;
+    font-size: 20px;
+    background-color: #874726;
+    color: white;
+    border-radius: 20px;
+}
+.liste2{
+    float: left;
+    position: absolute;
+    left: 560px;
+    top:410px;
+}
+p3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float:left;
+    position: absolute;
+    left: 1080px;
+    top: 600px;
+    font-size: 20px;
+
+}
